@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"><!--Import Google Icon Font-->
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><!--Import materialize.css-->
+	<link href="css/materialize.min.css" media="screen,projection" rel="stylesheet" type="text/css" /><!-- LINK CSS -->
+	<link href="css/style.css" rel="stylesheet" type="text/css" /><!--Let browser know website is optimized for mobile--><meta name="viewport" content="width=device-width, initial-scale=1.0"/><!-- Title -->
+	<title>GreatApparelIndonesia</title>
+	<link href="img/logo/favicon.ico" rel="shotrcut icon" />
+</head>
+<body class="scrollspy" id="home">
+<p></p>
+
+<div class="navbar-fixed">
+<nav class="yellow darken-2">
+<div class="container">
+<div class="nav-wrapper"><a class="brand-logo" href="#home"><img src="img/logo/LOGO-GAI1.png" /></a> <a class="button-collapse" data-activates="mobile-nav" href="#"><i class="material-icons">menu</i></a>
+
+<ul class="right hide-on-med-and-down">
+	<li><a href="#">Home</a></li>
+	<li><a href="#about">About Us</a></li>
+	<li><a href="#services">Client</a></li>
+	<li><a href="#portfolio">Portfolio</a></li>
+	<li><a href="#contact">Contact</a></li>
+</ul>
+</div>
+</div>
+</nav>
+</div>
+<!-- SideNAV -->
+
+<p></p>
+
+<ul class="side-nav" id="mobile-nav">
+	<li><a href="#about">Home</a></li>
+	<li><a href="#history">About Us</a></li>
+	<li><a href="#parallax">Client</a></li>
+	<li><a href="#portfolio">Portfolio</a></li>
+	<li><a href="#contact">Contact</a></li>
+</ul>
+<!-- SLIDER -->
+
+<div class="slider">
+<ul class="slides">
+	<li><img src="img/slider/Office/B.png" /> <!-- random image -->
+	<div class="caption center-align">
+	<h3>OFFICE</h3>
+
+	<h5 class="light grey-text text-lighten-3">GREAT APPAREL INDONESIA</h5>
+	</div>
+	</li>
+	<li><img src="img/slider/Office/D.png" /> <!-- random image -->
+	<div class="caption center-align">
+	<h3>MEETING ROOM</h3>
+
+	<h5 class="light grey-text text-lighten-3">Meeting Room &amp; Showroom</h5>
+	</div>
+	</li>
+	<li><img src="img/slider/productions/1.png" /> <!-- random image -->
+	<div class="caption center-align">
+	<h3>PARKING AREA</h3>
+
+	<h5 class="light grey-text text-lighten-3">Indoor Parking Area</h5>
+	</div>
+	</li>
+	<li><img src="img/slider/productions/2.png" /> <!-- random image -->
+	<div class="caption center-align">
+	<h3>FABRICS WAREHOUSE</h3>
+
+	<h5 class="light grey-text text-lighten-3">Large Material Storage Area</h5>
+	</div>
+	</li>
+	<li><img src="img/slider/productions/3.png" /> <!-- random image -->
+	<div class="caption center-align">
+	<h3>PATTERN &amp; PLOTING</h3>
+
+	<h5 class="light grey-text text-lighten-3">Experienced Plot &amp; Marking Workers</h5>
+	</div>
+	</li>
+	<li><img src="img/slider/productions/4.png" /> <!-- random image -->
+	<div class="caption center-align">
+	<h3>CUTTING</h3>
+
+	<h5 class="light grey-text text-lighten-3">Professional Cutters &amp; Safety</h5>
+	</div>
+	</li>
+	<li><img src="img/slider/productions/5.png" /> <!-- random image -->
+	<div class="caption center-align">
+	<h3>SEWING AREA</h3>
+
+	<h5 class="light grey-text text-lighten-3">Quality Sewing Workers</h5>
+	</div>
+	</li>
+	<li><img src="img/slider/productions/6.png" /> <!-- random image -->
+	<div class="caption center-align">
+	<h3>CUTTING AREA</h3>
+
+	<h5 class="light grey-text text-lighten-3">Big Area for Take &amp; Cutting</h5>
+	</div>
+	</li>
+</ul>
+</div>
+<!-- ABOUT US -->
+
+<section class="about scollspy section scrollspy" id="about">
+<div class="container">
+<div class="row">
+<h3 class="center light grey-text-darken-3">About Us</h3>
+
+<div class="col m6 light">
+<h5>About PT Great Apparel Indonesia</h5>
+
+<p>PT. GREAT APPAREL INDONESIA is a company engaged in the field of Garment and Manufacturing. It was established in 2014, with experienced employees in their respective fields We currently employ 1000-qualified employees, to obtain the highest quality Garment results. We have had a license history from several vendors such as <b>WALMART, SEARS K-MART, TJ MAXX, GAP, ASCENA ( brand : Lane Bryant , Caterhines ),</b> and Others.</p>
+</div>
+
+<div class="col m6 light">
+<h5>Working Progress</h5>
+
+<p>GAP ORDER 100%</p>
+
+<div class="progress">
+<div class="determinate" style="width: 100%"></div>
+</div>
+
+<p>Lane Bryant (- +) 50%</p>
+
+<div class="progress">
+<div class="determinate" style="width: 50%"></div>
+</div>
+
+<p>Caterhines (- +) 70%</p>
+
+<div class="progress">
+<div class="determinate" style="width: 70%"></div>
+</div>
+<!-- sedang berjalan -->
+
+<p><b>NOW</b> ASCENA</p>
+
+<div class="progress">
+<div class="indeterminate"></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- PARALLAX -->
+
+<div class="parallax-container ">
+<div class="parallax" id="parallax"><img src="img/parallax/parallax.png" /></div>
+</div>
+<!-- OUR CLIENT --><!-- K3 -->
+
+<section class="services grey lighten-3 section scrollspy" id="services">
+<div class="container">
+<div class="row">
+<h3 class="center grey-text-darken-3">K3 (Keselamatan dan Kesehatan kerja)</h3>
+
+<div class="col m4 s12">
+<div class="card-panel center-align"><i class="medium material-icons">rv_hookup</i>
+
+<h5>KESELAMATAN KERJA</h5>
+
+<h6><i>(Work Safety)</i></h6>
+
+<p>Work safety is part of K3, which aims to create a safe (safe) work system. Through the principle of accident prevention, and risk control in the work environment, each work activity must be able to meet the minimum objectives above the fulfillment of national regulations and international standards.</p>
+</div>
+</div>
+
+<div class="col m4 s12">
+<div class="card-panel center-align"><i class="medium material-icons">local_hospital<!--  healing --></i>
+
+<h5>KESEHATAN</h5>
+
+<h6><i>(Health)</i></h6>
+
+<p>Occupational health is part of K3, which focuses on improving occupational health and maintaining the welfare of workers in work activities. The occupational health program is carried out in various activities such as routine health checks, health education, health surveillance, education and training for each employee, etc.</p>
+</div>
+</div>
+
+<div class="col m4 s12">
+<div class="card-panel center-align"><i class="medium material-icons">fingerprint <!--  supervisor_account --></i>
+
+<h5>KEAMANAN</h5>
+
+<h6><i>(Security)</i></h6>
+
+<p>security in the work is part of K3, we have applied knowledge about safety in the field of security and will always be a reference to always secure the company. The company already has a science and application security certificate for prevention of possible theft and intruders that occur in the company.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Portfolio -->
+
+<section class="portfolio section scrollspy" id="portfolio">
+<div class="container">
+<h3 class="center grey-text-darken-3">Portfolio</h3>
+
+<div class="row">
+<div class="col m3 s12"><!--   <div class="caption center-align">
+          <h3>This is our big Tagline!</h3>
+          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+        </div> --><img class="responsive-img materialboxed caption center-align" src="img/portfolio/A.png" /></div>
+
+<div class="col m3 s12"><img class="responsive-img materialboxed" src="img/portfolio/B.png" /></div>
+
+<div class="col m3 s12"><img class="responsive-img materialboxed" src="img/portfolio/C.png" /></div>
+
+<div class="col m3 s12"><img class="responsive-img materialboxed" src="img/portfolio/D.png" /></div>
+</div>
+
+<div class="row">
+<div class="col m3 s12"><img class="responsive-img materialboxed" src="img/portfolio/E.png" /></div>
+
+<div class="col m3 s12"><img class="responsive-img materialboxed" src="img/portfolio/F.png" /></div>
+
+<div class="col m3 s12"><img class="responsive-img materialboxed" src="img/portfolio/G.png" /></div>
+
+<div class="col m3 s12"><img class="responsive-img materialboxed" src="img/portfolio/H.png" /></div>
+</div>
+</div>
+</section>
+<!-- Contact us -->
+
+<section class="contact grey lighten-3 section scrollspy" id="contact">
+<div class="container">
+<h3 class="grey-text text-darken-3 center">Contact Us</h3>
+
+<div class="row">
+<div class="col m5 s12">
+<div class="card-panel yellow darken-2 center white-text"><i class="material-icons">call mail laptop</i>
+
+<h5>Contact</h5>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta maxime porro aliquid culpa nostrum distinctio ex voluptas itaque odio officia eligendi in minima sint maiores, recusandae, quidem. Vitae, at, doloremque.</p>
+</div>
+
+<ul class="collection with-header">
+	<li class="collection-header center"><b>PT. GREAT APPAREL INDONESIA</b></li>
+	<li class="collection-item center">Jl. Pelabuhan II No.200 Kelurahan Warudoyong kota sukabumi</li>
+	<li class="collection-item center">West Java Indonesia</li>
+	<li class="collection-item center">Tlp: (0266) 222772 Pos.43133</li>
+</ul>
+</div>
+
+<div class="col m7 s12">
+<form>
+<div class="card-panel">
+<h5>Please Fill Out this form</h5>
+
+<div class="input-field"><input class="validate" id="name" name="name" required="" type="text" /> <label for="name">Name</label></div>
+
+<div class="input-field"><input class="validate" id="email" name="email" type="email" /> <label for="name">Email</label></div>
+
+<div class="input-field"><input id="phone" name="phone" type="text" /> <label for="phone">Phone Number</label></div>
+
+<div class="input-field"><textarea class="materialize-textarea" id="message" name="message"></textarea><label for="message">Message</label></div>
+<button class="btn blue darken-4" type="submit">Send</button></div>
+</form>
+</div>
+</div>
+</div>
+</section>
+<!-- FOOTER -->
+
+<footer class="page-footer purple darken-4">
+<div class="container">
+<div class="row">
+<div class="col l6 s12">
+<h5 class="white-text">Maps Location</h5>
+<iframe allowfullscreen="" frameborder="0" height="250" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.611207078016!2d106.9215574141449!3d-6.93698376983169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6849c250f01ab3%3A0x63877e6da940e5a3!2sPt.Great%20Apparel%20Indonesia!5e0!3m2!1sid!2sid!4v1582960941869!5m2!1sid!2sid" style="border:0;" width="400"></iframe><!--           <p class="grey-text text-lighten-4">Lets join with Us, for your Garment and manufacturing with Quality and big Quantity we ready joint for make your Garment with good quality !
+          We are a team of college students working on this project like it's our full time job. Any amount would help support and continue development on this project and is greatly appreciated.</p> --></div>
+
+<div class="col l3 s12">
+<h5 class="white-text">For Business</h5>
+
+<ul>
+	<li><a class="white-text" href="mailto:marketing@great-apparel.co.id">Email : MARKETING</a></li>
+</ul>
+
+<h5>Rekruitment</h5>
+
+<ul>
+	<li><a class="white-text" href="mailto:rusly@great-apparel.co.id">Recruitment1</a></li>
+	<li><a class="white-text" href="mailto:hrd@great-apparel.co.id">Recruitment2</a></li>
+</ul>
+</div>
+
+<div class="col l3 s12">
+<h5 class="white-text"><a class="white-text" href="mailto:hrd@great-apparel.co.id">Contact Us</a></h5>
+
+<ul>
+	<li><a class="white-text" href="direct:0266222772">PHONE :(0266)222772</a></li>
+	<li><a class="white-text" href="direct:0266222772">FAX :(0266)222772</a></li>
+	<li><a class="white-text" href="mailto:it@great-apparel.co.id">Email : Support</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="footer-copyright">
+<nav class="yellow darken-2">
+<div class="container">Copyright 2020 <a class="brown-text text-lighten-1" href="http://www.great-apparel.co.id">GreatApparel.ID</a></div>
+</nav>
+</div>
+</footer>
+<!--Import jQuery before materialize.js--><script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script><script type="text/javascript" src="js/materialize.min.js"></script><!-- <script>
+        const sideNav = document.querySelectorAll('.side-nav');    
+        M.Sidenav.init(sideNav);
+      </script>
+       --><script type="text/javascript">
+        
+          $(".button-collapse").sideNav();
+          $(document).ready(function(){
+          $('.slider').slider();
+
+          });
+          $(document).ready(function(){
+          $('.parallax').parallax();
+          });
+          $(document).ready(function(){
+          $('.scrollspy').scrollSpy();
+          
+
+          });
+
+
+
+
+      </script></body>
+<!-- NAVBAR --></html>
